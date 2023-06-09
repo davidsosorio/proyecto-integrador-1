@@ -12,5 +12,5 @@ Integrantes del Proyecto:
 *  Juan Diego Atehortúa Cataño
 
 
-Maestría Ciencia de los Datos y ANalítica
+Maestría Ciencia de los Datos y Analítica
 2023
